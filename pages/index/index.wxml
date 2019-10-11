@@ -1,0 +1,4 @@
+<text class="test">{{name}}</text>
+
+<mp-tabbar class="tabbar" current="{{current}}" list="{{list}}" bindchange="tabChange">
+</mp-tabbar>
